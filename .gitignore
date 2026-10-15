@@ -3,6 +3,8 @@
 
 # Temporary files
 *.tmp
+# zip
+*.zip
 
 # R-generated files
 .Rhistory
